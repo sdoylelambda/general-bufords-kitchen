@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "homepage": "https://sdoylelambda.github.io/general-bufords-kitchen",
-=======
-  "homepage": "https://sdoylelambda.github.io/restaurantTemplateFE/",
->>>>>>> a2f8628f030a5cccb3684a0f6c62f4e59445552f
   "name": "restaurant-fe",
   "version": "0.1.0",
   "private": false,
