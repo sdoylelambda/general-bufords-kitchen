@@ -19,7 +19,8 @@ Forms -
 Auth -
 Payment -
 
-[] Create React App
+[] Create React App from my template
+[] Refactor original site to React
 [] Add existing site data
 [] Existing Menus
 [] Existing Links
@@ -31,7 +32,6 @@ Payment -
 [] User can add item(s) to their cart
 [] View payment screen
 [] Pay with credit card
-[] Refactor original site to React
 
 E - Execute
 
