@@ -1,16 +1,16 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import navbar from 'build/navbar.jpg'
+import navbar from './../../build/navbar.jpg'
 
 const Navbar: React.FC = () => {
   const myStyle = {
-    backgroundImage: '../',
+    backgroundImage: navbar,
     width: '100%',
     height: '200px',
   }
 
   return (
-    <>
+    <div style={myStyle}>
       <nav>
         <ul>
           <li>
@@ -24,7 +24,7 @@ const Navbar: React.FC = () => {
           </li>
         </ul>
       </nav>
-    </>
+    </div>
   )
 }
 
