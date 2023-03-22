@@ -10,8 +10,7 @@ const Home = () => {
           historic Gettysburg. We offer home-cooked family dining, affordable
           priced and located just a few blocks west of the historic square in
           downtown Gettysburg. A favorite of Adams County residents, General
-          Buford's Kitchen has been serving breakfast, lunch, and dinner daily
-          since 1999.
+          Buford's Kitchen serves breakfast, lunch, and dinner daily.
         </h4>
         <h4>​​Follow us on Facebook for regular updates and hours.</h4>
         <div>
